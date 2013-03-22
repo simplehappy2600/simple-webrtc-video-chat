@@ -12,8 +12,8 @@
       <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
       <project.test.sourceEncoding>UTF-8</project.test.sourceEncoding>
-      <maven.compiler.source>1.5</maven.compiler.source>
-      <maven.compiler.source>1.5</maven.compiler.source>
+      <maven.compiler.source>1.6</maven.compiler.source>
+      <maven.compiler.source>1.6</maven.compiler.source>
       <!-- <jetty.version>8.1.7.v20120910</jetty.version> -->
       <jetty.version>8.1.8.v20121106</jetty.version>
   </properties>
